@@ -292,6 +292,7 @@ namespace ExPresSXR.Presentation
                 if (_infoImageGo != null)
                 {
                     _infoImageGo.sprite = _infoImage;
+                    _infoImageGo.preserveAspect = true;
                 }
             }
         }
