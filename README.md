@@ -7,7 +7,7 @@ Created by Luca Dreiling
 
 Special thanks to Kevin Körner and Stefan Krmnicek for supporting the creation with their expertise on Exhibitions and Numismatic, their feedback and playtesting.
 
-The models used are taken from Sketchfab under CC Lincense (links and detailed credits will be added shortly).
+The attribution for all external models can be found [here](Assets/Models/ExhibitionInfoTextsAndAttribution.md).
 
 ## Contact and Support 
 
